@@ -23,3 +23,8 @@ C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreap
 C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\DevIO.UI.Site.RazorTargetAssemblyInfo.cs
 C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\DevIO.UI.Site.Views.pdb
 C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\DevIO.UI.Site.csproj.CopyComplete
+C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\LeonardoQR\source\repos\AppModelo\src\DevIO.UI.Site\obj\Debug\netcoreapp2.2\DevIO.UI.Site.csprojAssemblyReference.cache
